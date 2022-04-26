@@ -1,0 +1,3 @@
+https://davidstutz.de/illustrating-convolutional-neural-networks-in-latex-with-tikz/
+
+https://jdhao.github.io/2019/09/21/latex_algorithm_pseudo_code/
